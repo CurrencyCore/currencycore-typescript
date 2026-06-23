@@ -1,6 +1,6 @@
 {
   "name": "@currencycore/sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Official CurrencyCore API client for TypeScript, Node.js, and React Native.",
   "license": "MIT",
   "repository": {
