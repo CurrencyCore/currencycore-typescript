@@ -8,6 +8,9 @@ Generated from the CurrencyCore OpenAPI 3.1 spec with
 [OpenAPI Generator](https://openapi-generator.tech) (`typescript-fetch`), plus a
 thin hand-written `createClient` helper for API-key and version handling.
 
+- **Website:** https://currency-core.com
+- **Documentation:** https://currency-core.com/docs
+
 ## Install
 
 ```bash
